@@ -1,0 +1,100 @@
+<link rel="stylesheet" type="text/css" href="https://viresh-ratnakar.github.io/exolve-m.css"/>
+<script src="https://viresh-ratnakar.github.io/exolve-m.js">
+</script>
+
+<div id="exolve-div-43j5pg">
+</div>
+
+<script>
+createExolve(`
+exolve-begin
+  exolve-id: xet-sxig2n
+  exolve-width: 21
+  exolve-height: 21
+  exolve-title: Crossword
+  exolve-setter: Exetter
+  exolve-maker: 
+    Software: <a target="_blank" href="https://exet.app">Exet</a><br>
+    Version: v0.93, June 17, 2024<br>
+    Lexicon: Lufz-en-v0.07<br>
+    Timestamp: Tue Oct 01 2024 19:43:50 GMT+0100 (British Summer Time)<br>
+  exolve-language: en Latin 1
+  exolve-grid: 
+    O   F   F   S   H   O   R   E   A   C   C   O   U   N   T   .   ?   ?   ?   ?   .   
+    ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   G   
+    ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   .   ?   ?   ?   ?   ?   ?   R   
+    ?   .   ?   .   ?   .   .   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   E   
+    M   A   D   R   I   G   A   L   .   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   Y   
+    ?   .   ?   .   .   .   ?   .   K   .   ?   .   .   .   .   .   ?   .   ?   .   M   
+    ?   ?   ?   ?   ?   ?   ?   ?   A   ?   ?   .   O   R   C   H   E   S   T   R   A   
+    ?   .   ?   .   ?   .   ?   .   F   .   .   .   Z   .   ?   .   ?   .   ?   .   T   
+    ?   ?   ?   ?   ?   ?   ?   ?   K   .   ?   ?   Y   ?   ?   ?   ?   ?   ?   ?   T   
+    .   .   .   .   ?   .   ?   .   A   .   ?   .   M   .   ?   .   .   .   ?   .   E   
+    ?   ?   ?   ?   ?   ?   ?   .   E   ?   ?   ?   A   .   ?   ?   ?   ?   ?   ?   R   
+    ?   .   ?   .   .   .   ?   .   S   .   ?   .   N   .   ?   .   ?   .   .   .   .   
+    A   L   B   U   Q   U   E   R   Q   U   E   .   D   ?   ?   ?   ?   ?   ?   ?   C   
+    ?   .   ?   .   ?   .   ?   .   U   .   .   .   I   .   ?   .   ?   .   ?   .   H   
+    ?   ?   ?   ?   ?   ?   ?   ?   E   .   ?   ?   A   ?   ?   ?   ?   ?   ?   ?   E   
+    ?   .   ?   .   ?   .   .   .   .   .   ?   .   S   .   ?   .   .   .   ?   .   M   
+    ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   .   ?   ?   ?   ?   ?   ?   ?   I   
+    ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   .   .   ?   .   ?   .   S   
+    ?   ?   ?   ?   ?   ?   ?   .   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   T   
+    ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   ?   .   R   
+    .   ?   ?   ?   ?   .   L   I   L   Y   O   F   T   H   E   V   A   L   L   E   Y   
+  exolve-across: 
+  1 Entry in ship's logbook showing location of hidden treasure? (8,7) [OFFSHORE ACCOUNT] cryptic/double definition
+  9 [DRAFT] Set clue and clear draft marker... (4) [????]
+  12 [DRAFT] Set clue and clear draft marker... (13) [?????????????]
+  13 [DRAFT] Set clue and clear draft marker... (7) [??????R]
+  14 [DRAFT] Set clue and clear draft marker... (8) [MADRIGAL]
+  16 [DRAFT] Set clue and clear draft marker... (12) [???????????Y]
+  18 [DRAFT] Set clue and clear draft marker... (11) [????????A??]
+  20 [DRAFT] Set clue and clear draft marker... (9) [ORCHESTRA]
+  22 [DRAFT] Set clue and clear draft marker... (9) [????????K]
+  23 [DRAFT] Set clue and clear draft marker... (11) [??Y???????T]
+  24 [DRAFT] Set clue and clear draft marker... (7) [???????]
+  26 [DRAFT] Set clue and clear draft marker... (5) [E???A]
+  27 [DRAFT] Set clue and clear draft marker... (7) [??????R]
+  29 [DRAFT] Set clue and clear draft marker... (11) [ALBUQUERQUE]
+  31 [DRAFT] Set clue and clear draft marker... (9) [D???????C]
+  34 [DRAFT] Set clue and clear draft marker... (9) [????????E]
+  35 [DRAFT] Set clue and clear draft marker... (11) [??A???????E]
+  36 [DRAFT] Set clue and clear draft marker... (12) [????????????]
+  39 [DRAFT] Set clue and clear draft marker... (8) [???????I]
+  42 [DRAFT] Set clue and clear draft marker... (7) [???????]
+  43 [DRAFT] Set clue and clear draft marker... (13) [????????????T]
+  45 [DRAFT] Set clue and clear draft marker... (4) [????]
+  46 [DRAFT] Set clue and clear draft marker... (4,2,3,6) [LILY OF THE VALLEY]
+  exolve-down: 
+  1 [DRAFT] Set clue and clear draft marker... (9) [O???M????]
+  2 [DRAFT] Set clue and clear draft marker... (9) [F???D????]
+  3 [DRAFT] Set clue and clear draft marker... (5) [H???I]
+  4 [DRAFT] Set clue and clear draft marker... (3) [R??]
+  5 [DRAFT] Set clue and clear draft marker... (4) [A???]
+  6 [DRAFT] Set clue and clear draft marker... (7) [C??????]
+  7 [DRAFT] Set clue and clear draft marker... (5) [U????]
+  8 [DRAFT] Set clue and clear draft marker... (5) [T????]
+  9 [DRAFT] Set clue and clear draft marker... (9) [??????E??]
+  10 [DRAFT] Set clue and clear draft marker... (11) [??????T????]
+  11 [DRAFT] Set clue and clear draft marker... (4,6) [GREY MATTER]
+  15 [DRAFT] Set clue and clear draft marker... (11) [A???????E??]
+  17 [DRAFT] Set clue and clear draft marker... (10) [KAFKAESQUE]
+  19 [DRAFT] Set clue and clear draft marker... (5) [?????]
+  20 [DRAFT] Set clue and clear draft marker... (10) [OZYMANDIAS]
+  21 [DRAFT] Set clue and clear draft marker... (11) [C??????????]
+  23 [DRAFT] Set clue and clear draft marker... (5) [????E]
+  24 [DRAFT] Set clue and clear draft marker... (10) [??A???????]
+  25 [DRAFT] Set clue and clear draft marker... (11) [??B????????]
+  28 [DRAFT] Set clue and clear draft marker... (5) [?????]
+  30 [DRAFT] Set clue and clear draft marker... (9) [Q????????]
+  32 [DRAFT] Set clue and clear draft marker... (9) [????????L]
+  33 [DRAFT] Set clue and clear draft marker... (9) [CHEMISTRY]
+  35 [DRAFT] Set clue and clear draft marker... (7) [??????O]
+  37 [DRAFT] Set clue and clear draft marker... (5) [????L]
+  38 [DRAFT] Set clue and clear draft marker... (5) [????L]
+  40 [DRAFT] Set clue and clear draft marker... (5) [????A]
+  41 [DRAFT] Set clue and clear draft marker... (4) [???T]
+  44 [DRAFT] Set clue and clear draft marker... (3) [??E]
+exolve-end
+  `, "exolve-div-43j5pg");
+</script>
