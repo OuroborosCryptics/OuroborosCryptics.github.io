@@ -1,0 +1,74 @@
+<link rel="stylesheet" type="text/css" href="https://viresh-ratnakar.github.io/exolve-m.css"/>
+<script src="https://viresh-ratnakar.github.io/exolve-m.js">
+</script>
+
+<div id="exolve-div-kq8ea2">
+</div>
+
+<script>
+createExolve(`
+exolve-begin
+  exolve-id: xet-vmvev7
+  exolve-width: 15
+  exolve-height: 15
+  exolve-title: Beginner's Grid No 2 (Telescopic Only)
+  exolve-setter: Ouroboros
+  exolve-maker: 
+    Software: <a target="_blank" href="https://exet.app">Exet</a><br>
+    Version: v0.94, October 6, 2024<br>
+    Lexicon: Lufz-en-v0.08<br>
+    Timestamp: Wed Jan 15 2025 01:05:37 GMT+0000 (Greenwich Mean Time)<br>
+  exolve-language: en Latin 1
+  exolve-grid: 
+    .   N   .   ?   .   S   .   ?   .   S   .   O   .   I   .   
+    D   E   P   A   R   T   M   E   N   T   .   V   A   N   .   
+    .   P   .   ?   .   R   .   ?   .   A   .   E   .   F   .   
+    ?   A   ?   ?   .   A   K   A   .   F   O   R   M   A   T   
+    .   L   .   .   .   T   .   .   .   F   .   H   .   N   .   
+    D   I   S   T   R   I   C   T   .   O   M   E   R   T   A   
+    .   .   .   R   .   .   .   E   .   R   .   A   .   R   .   
+    T   H   A   I   .   M   I   N   E   D   .   T   O   Y   S   
+    .   E   .   G   .   A   .   O   .   .   .   E   .   .   .   
+    F   R   U   G   A   L   .   R   Y   A   N   D   U   N   N   
+    .   I   .   E   .   L   .   .   .   ?   .   .   .   ?   .   
+    S   T   E   R   N   A   .   ?   ?   ?   .   ?   ?   ?   ?   
+    .   A   .   I   .   R   .   ?   .   ?   .   ?   .   ?   .   
+    .   G   I   N   .   D   E   T   E   R   M   I   N   E   D   
+    .   E   .   G   .   S   .   ?   .   ?   .   ?   .   ?   .   
+  exolve-across: 
+  8 ~{Ward}~'s part aptitude, part mentality (10) [DEPARTMENT] <s>aptitu</s>DE PART MENT<s>ality</s>
+  9 [DRAFT] Set clue and clear draft marker... (3) [VAN]
+  10 [DRAFT] Set clue and clear draft marker... (4) [?A??]
+  11 ~{Goes by this name as well}~ in Jakarta (3) [AKA] <s>j</s>AKA<s>rta</s>
+  12 Inform attendant to exhibit ~{composition}~ (6) [FORMAT] <s>in</s>FORM AT<s>tendant</s>
+  13 ~{Region}~ of Switzerland I strictly contained (8) [DISTRICT] <s>switzerlan</s>D I STRICT<s>ly</s>
+  16 ~{Code of silence}~ Homer takes in part (6) [OMERTA] <s>h</s>OMER TA<s>kes</s>
+  17 Some cat hairs are ~{Siamese}~ (4) [THAI] <s>ca</s>T HAI<s>rs</s>
+  19 ~{Dug}~ ermine Duffel coats (5) [MINED] <s>er</s>MINE D<s>uffel</s>
+  20 [DRAFT] Set clue and clear draft marker... (4) [TOYS]
+  21 ~{Unlikely to spend lots}~ on much of rug alterations (6) [FRUGAL] <s>o</s>F RUG AL<s>terations</s>
+  22 ~{Stunt performer}~'s gory and unnecessary content (4,4) [RYAN DUNN] <s>go</s>RY AND UNN<s>ecessary</s>
+  25 Plaster, naturally, covered ~{bones}~ (6) [STERNA] <s>pla</s>STER NA<s>turally</s>
+  26 [DRAFT] Set clue and clear draft marker... (3) [???]
+  27 [DRAFT] Set clue and clear draft marker... (4) [????]
+  28 [DRAFT] Set clue and clear draft marker... (3) [GIN]
+  29 [DRAFT] Set clue and clear draft marker... (10) [DETERMINED]
+  exolve-down: 
+  1 [DRAFT] Set clue and clear draft marker... (6) [NEPALI]
+  2 [DRAFT] Set clue and clear draft marker... (4) [?A??]
+  3 [DRAFT] Set clue and clear draft marker... (6) [STRATI]
+  4 [DRAFT] Set clue and clear draft marker... (4) [?E?A]
+  5 ~{Town}~ of cost & affordability (8) [STAFFORD] <s>co</s>ST AFFORD<s>ability</s>
+  6 Hiding in cover, he ate dhansak and ~{sizzled}~ (10) [OVERHEATED] <s>c</s>OVER HE ATE D<s>hansak</s>
+  7 [DRAFT] Vain fan trying to display ~{soldiers}~ (8) [INFANTRY] <s>va</s>IN FAN TRY<s>ing</s>
+  14 [DRAFT] Set clue and clear draft marker... (10) [TRIGGERING]
+  15 [DRAFT] Set clue and clear draft marker... (5) [TENOR]
+  18 Mother, it agelessly keeps ~{tradition}~ (8) [HERITAGE] <s>mot</s>HER IT AGE<s>lessly</s>
+  19 [DRAFT] ~{Ducks}~' contribution to animal lard supply (8) [MALLARDS] <s>ani</s>MAL LARD S<s>upply</s>
+  23 [DRAFT] Set clue and clear draft marker... (6) [A???R?]
+  24 [DRAFT] Set clue and clear draft marker... (6) [N???E?]
+  26 [DRAFT] Set clue and clear draft marker... (4) [??T?]
+  27 [DRAFT] Set clue and clear draft marker... (4) [??I?]
+exolve-end
+  `, "exolve-div-kq8ea2");
+</script>
