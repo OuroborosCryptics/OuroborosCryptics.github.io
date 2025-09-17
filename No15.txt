@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#CCFFCC";>
+<link rel="stylesheet" type="text/css" href="https://viresh-ratnakar.github.io/exolve-m.css"/>
+<script src="https://viresh-ratnakar.github.io/exolve-m.js">
+</script>
+
+<div id="exolve-div-h9od32">
+</div>
+
+<script>
+createExolve(`
+exolve-begin
+  exolve-id: xet-s5jcya
+  exolve-width: 15
+  exolve-height: 15
+  exolve-title: No 15
+  exolve-setter: Exetter
+  exolve-copyright: J Lundström (Ouroboros)
+  exolve-maker: 
+    Software: <a target="_blank" href="https://exet.app">Exet</a><br>
+    Version: v0.97, September 16, 2025<br>
+    Lexicon: Lufz-en-v0.08<br>
+    Timestamp: Wed Sep 17 2025 15:10:31 GMT+0100 (British Summer Time)<br>
+  exolve-language: en Latin 1
+  exolve-grid: 
+    A   .   C   .   T   .   E   .   P   .   V   .   F   .   A   
+    N   O   R   T   H   S   T   A   R   .   I   N   U   I   T   
+    O   .   I   .   A   .   A   .   O   .   C   .   M   .   T   
+    D   A   M   .   T   E   L   E   C   O   T   T   A   G   E   
+    I   .   E   .   S   .   .   .   E   .   O   .   N   .   N   
+    C   H   A   S   T   I   S   E   D   .   R   A   C   E   D   
+    .   .   .   .   H   .   U   .   U   .   .   .   H   .   E   
+    G   O   L   D   E   N   P   A   R   A   C   H   U   T   E   
+    E   .   I   .   .   .   P   .   E   .   A   .   .   .   .   
+    R   U   N   U   P   .   L   A   S   T   S   T   R   A   W   
+    M   .   E   .   A   .   E   .   .   .   T   .   E   .   H   
+    A   M   A   L   G   A   M   A   T   E   S   .   D   O   E   
+    N   .   R   .   O   .   E   .   U   .   O   .   A   .   E   
+    I   D   L   E   D   .   N   O   C   T   U   R   N   A   L   
+    C   .   Y   .   A   .   T   .   K   .   T   .   T   .   S   
+  exolve-across: 
+  9 "~{It aids navigation}~ from poles" claims Roth (drunken sailor) (5,4) [NORTH STAR] NS containing ROTH* + TAR
+  10 ~{Northern people}~ are trendy with universal appeal (5) [INUIT] IN + U + IT
+  11 ~{Barrier}~ built back unfinished (3) [DAM] MAD<s>e</s><<
+  12 Elect to get a busy ~{communal workplace in the country}~ (11) [TELECOTTAGE] (ELECT TO GET A)*
+  13 Child regularly spends on wine, getting ~{scolded}~ (9) [CHASTISED] CH + ASTI + S<s>p</s>E<s>n</s>D<s>s</s>
+  15 Queen leaving career criminal ultimately locked and ~{bolted}~ (5) [RACED] CAREER* - ER + <s>locke</s>D
+  16 Time and courage help in arrangement for ~{generous leaving gift}~ (6,9) [GOLDEN PARACHUTE] (T AND COURAGE HELP)*
+  19 ~{Accumulate}~ uranium in Navy uniform, facing pressure (3,2) [RUN UP] U inside RN + U + P
+  21 See 3d
+  24 A liberal infiltrating Trumpist movement meets allies and ~{blends}~ (11) [AMALGAMATES] A + (L inside MAGA) + MATES
+  26 ~{Unidentified casualty}~ of party drug (3) [DOE] DO + E
+  27 Ouroboros would start to liaise with editor, but ~{did nothing}~ (5) [IDLED] ID + L<s>iaise</s> + ED
+  28 Fox: "Ann Coulter cancelling essential segment of bulletins ~{overnight}~" (9) [NOCTURNAL] (ANN COULTER)* - <s>bull</s>E<s>tins</s>
+  exolve-down: 
+  1 ~{On terminal}~; after second of waiting, lack of success abandoning base (6) [ANODIC] <s>w</s>A<s>iting</s> + NO DICE - E
+  2 Portion of Pacific Rim earnings for ~{occupied region}~ (6) [CRIMEA] <s>pacifi</s>C RIM EA<s>rnings</s>
+  3, 21a ~{I've lost my temper}~ - ~{it's time to drink from the bottle}~... (5,3,4,5) [THATS THE LAST STRAW] double/cryptic definition
+  4 ...~{and others}~' metallic cans (2,2) [ET AL] <s>m</s>ETAL<s>lic</s>
+  5 Edward shortly acquires boxing ~{techniques}~ (10) [PROCEDURES] PROCURES containing ED
+  6 ~{Winner}~ of X Factor on the radio? (6) [VICTOR] NATO phonetic representation (on the radio) of V (a factor of X in Roman numerals)
+  7 Much fun playing with a ~{moustache}~ (2,6) [FU MANCHU] (MUCH FUN + A)*
+  8 When the evening news starts, network hosts director and ~{guest}~ (8) [ATTENDEE] (AT TEN + EE) containing D
+  14 Fit blokes start taking ~{additive}~ (10) [SUPPLEMENT] SUPPLE + MEN + T<s>aking</s>
+  16 Anger - not the beginning of anything new with crazy ~{North European}~ (8) [GERMANIC] ANGER - (A<s>nything</s> N) + MANIC
+  17 ~{Directly}~ heading to lover's home ahead of time (8) [LINEARLY] L<s>over</s> + IN + EARLY
+  18 ~{Gets rid of}~ mould by spraying Oust (5,3) [CASTS OUT] CAST + OUST*
+  20 ~{Temple}~ some worship a god at? (6) [PAGODA] <s>worshi</s>P A GOD A<s>t</s>
+  22 Communist books inspiring one to become ~{a member of a colony}~ (3,3) [RED ANT] (RED + NT) containing A
+  23 ~{Rolls}~ with filleted fish (6) [WHEELS] W<s>it</s>H + EELS
+  25 ~{Food}~~{stuff}~ (4) [TUCK] double definition
+exolve-end
+  `, "exolve-div-h9od32");
+</script>
+</body>
+</html>
